@@ -12,4 +12,4 @@
 # Deployed application:
 # Github repository:
 
-![Screenshot (6)](https://user-images.githubusercontent.com/80734798/138680601-8f519cd4-33ab-41b4-9f33-1f18b1235489.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/80734798/138680839-a1a6b44e-2374-4493-b328-152130742d36.png)
