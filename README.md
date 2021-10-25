@@ -12,4 +12,4 @@
 # Deployed application:
 # Github repository:
 
-![password-generator](https://user-images.githubusercontent.com/80734798/138678764-9855a8e8-a748-4d46-ad7c-db12428e7804.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/80734798/138680601-8f519cd4-33ab-41b4-9f33-1f18b1235489.png)
