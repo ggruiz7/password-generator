@@ -1,6 +1,6 @@
 ### Password Generator
 
-## Requirements:
+## Features:
 ```python
 - prompts for password criteria
 - Length between 8 and 128 characters
