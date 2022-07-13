@@ -1,5 +1,8 @@
 # Password Generator
 
+## Summary
+An easy-to-use random password generator!
+
 ## Features:
 - prompts for password criteria
 - Length between 8 and 128 characters
